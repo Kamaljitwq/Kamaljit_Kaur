@@ -1,0 +1,25 @@
+.gap-top {
+    margin: 6rem 0;
+}
+.expand {
+    grid-column: 1  / -1;
+}
+.fas {
+    font-size: 1.2rem;
+}
+.fab {
+    font-size: 1.5rem;
+}
+.links {
+    padding: 0;
+    text-align: left;
+}
+.links a i {
+    padding-right: .5rem;
+    color: #827344;
+}
+.links a:active{
+    color: #7D9867;
+}
+
+
