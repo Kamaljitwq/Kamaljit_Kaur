@@ -3,6 +3,22 @@
   margin: 6rem 0;
 }
 
+.top{
+
+    position: fixed;
+    bottom: 1rem;
+    font-weight: bold;
+    right: 1rem;
+    z-index: 2;
+    border-radius: 50%;
+    border: 0;
+    background-color: #635834;
+    color: white;
+    width: 2.5rem;
+    height: 2.5rem;
+
+}
+
 .expand {
   grid-column: 1  / -1;
 }
